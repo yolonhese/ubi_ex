@@ -1,3 +1,11 @@
+# PART 2
+My goal was to redact the contract without access to any known framework for deployment or migration as well as publicly avaliable libraries.
+The need for the front end interface and client endpoints was not well defined in each exercise, so the focus was raw contract interaction.
+The whole part 2 was developed and tested in Ethereum Remix.
+
+This does not mean the end user utilization was not taken into account.
+Specially in 2.1, data structures were made as to be easy to iterate over and provide a clear picture of the relationship between records.
+
 # Exercise 2.1 - Therapy
 Functions' purpose, arguments and returns are documented in the `therapy.sol` source file. 
 
