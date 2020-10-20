@@ -22,7 +22,7 @@ Functions' purpose, arguments and returns are documented in the `piggybank.sol` 
 
 # Multi Sign System
 
-After the `PiggyBank` contract deployment, once a deposit is made, the origin account is added to the stakeholders list.
+After the `PiggyBank` contract deployment, once a deposit is made, the origin account is added to the stakeholders list. Each account present in the list can then approve or remove the approval of the total fund transfer to the destination account.
 
 # Mutability
 
